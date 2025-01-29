@@ -1,47 +1,49 @@
+
 {
+  "courseTitle": "জাভাস্ক্রিপ্ট",
   "overview": {
   "keyPoints": [
     {
       "id": 16,
-      "Key": "Trusted by 500,000+ Designers in over 120+ countries."
+      "Key": "120টিরও বেশি দেশে 500,000+ ডিজাইনারদের দ্বারা বিশ্বস্ত।"
     },
     {
       "id": 17,
-      "Key": "Have a 98% completion rate and we take pride in supporting every student who enrolls in a Live Bootcamp"
+      "Key": "একটি 98% সমাপ্তির হার আছে এবং আমরা একটি লাইভ বুটক্যাম্পে নথিভুক্ত প্রত্যেক শিক্ষার্থীকে সমর্থন করার জন্য গর্বিত"
     }
   ],
   "Requirements": {
-    "title": "Requirements",
-    "description": "You need basic device with video viewing capability This course is for working professionals with basic\nunderstanding of business, banking and financial subjects , even freshers & student already in Pre and\nGraduation level aspiring for a Career in Compliance related field.",
+    "title": "প্রয়োজনীয়তা",
+    "description": "আপনার ভিডিও দেখার ক্ষমতা সহ মৌলিক ডিভাইসের প্রয়োজন এই কোর্সটি কর্মরত পেশাদারদের জন্য যারা ব্যবসা, ব্যাঙ্কিং এবং আর্থিক বিষয় সম্পর্কে প্রাথমিক জ্ঞানসম্পন্ন, এমনকি ফ্রেশার এবং ছাত্র যারা ইতিমধ্যেই প্রাক এবং স্নাতক স্তরে রয়েছে যারা কমপ্লায়েন্স সম্পর্কিত ক্ষেত্রে ক্যারিয়ার গড়তে আগ্রহী।",
     "RequirementsItems": [
       {
-        "RequirementsItemName": "Laptop",
+        "RequirementsItemName": "ল্যাপটপ",
         "RequirementsItemImage": "image/url"
       }
     ]
   },
   "SkillsYouWillLearn": {
-    "title": "Skills you will practice",
+    "title": "দক্ষতা আপনি অনুশীলন করবেন",
     "Key": [
       {
         "id": 18,
-        "Key": "Nodejs"
+        "Key": "নোডজেএস"
       },
       {
         "id": 19,
-        "Key": "Javascript"
+        "Key": "জাভাস্ক্রিপ্ট"
       }
     ]
   },
   "WhoThisCourseFor": {
-    "title": "This course is for",
+    "title": "এই কোর্সের জন্য",
     "Key": [
       {
         "id": 20,
-        "Key": "Final year student"
+        "Key": "শেষ বর্ষের ছাত্র"
       }
     ]
   }
 },
-"categories": ["Javascript", "Front End"] 
+"categories": ["জাভাস্ক্রিপ্ট", "ফ্রন্ট এন্ড "] 
 }
