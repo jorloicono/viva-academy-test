@@ -24,3 +24,5 @@
 var age = 25;
 var age = 30; // রিডিক্লেয়ার সম্ভব (কিন্তু খারাপ প্র্যাকটিস)
 console.log(age); // 30
+```
+Will discuss later.
