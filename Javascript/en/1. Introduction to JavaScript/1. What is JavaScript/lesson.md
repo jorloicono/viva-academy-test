@@ -9,7 +9,10 @@ JavaScript is a **dynamic, interpreted programming language** primarily used for
 - **Event-Driven**: Responds to user actions (clicks, keystrokes).
 - **Cross-Platform**: Supported by all modern browsers (Chrome, Firefox, Edge).
 - **Dynamic Typing**: Variable types are determined at runtime.
-
+- **Client-Side Scripting**: Runs directly in the browser.
+- **Client-Side Scripting**: Runs directly in the browser.
+- **Client-Side Scripting**: Runs directly in the browser.
+- **Client-Side Scripting**: Runs directly in the browser.
 ---
 
 ## Example Code:
