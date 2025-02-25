@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 2. History and Evolution of TypeScript
 
 **TypeScript** was created to address JavaScript’s limitations and manage large-scale projects. Below is a brief history:
