@@ -1,5 +1,4 @@
 
-```markdown
 # 1. What is TypeScript?
 
 **TypeScript** is a **superset of JavaScript** developed by Microsoft in 2012. It adds **static typing** and **object-oriented programming** features, making code safer and more organized for large-scale projects.
